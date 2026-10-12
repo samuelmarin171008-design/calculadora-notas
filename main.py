@@ -1,5 +1,5 @@
 def calcular_promedio_notas():
-    print("--- CALCULADORA DE NOTAS SENCILLA ---")
+    print("--- CALCULADORA DE NOTAS SENCILLA v1.0---")
 
     notas = []
 
