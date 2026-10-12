@@ -1,6 +1,5 @@
 def calcular_promedio_notas():
-    print("--- CALCULADORA DE NOTAS SENCILLA v1.0---")
-
+    print("--- SISTEMA DE CALIFICACIONES UNIMAR ---")
     notas = []
 
     while True:
