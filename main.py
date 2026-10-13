@@ -1,5 +1,5 @@
 def calcular_promedio_notas():
-    print("--- SISTEMA DE CALIFICACIONES OFICIAL v1.0---")
+    print("--- SISTEMA DE CALIFICACIONES v1.0---")
     notas = []
 
     while True:
